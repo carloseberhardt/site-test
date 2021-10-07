@@ -1,0 +1,4 @@
+[submodule "content-test"]
+	path = content-test
+	url = git@github.com:carloseberhardt/content-test.git
+	branch = .
